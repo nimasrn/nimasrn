@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/nimasrn/nimasrn">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nimasrn&show_icons=true&include_all_commits&theme=dracula" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nimasrn&show_icons=true&include_all_commits&theme=dracula" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=nimasrn&theme=dracula&layout=compact" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimasrn&hide=html,scss,css,TypeScript&theme=dracula" />
 </a>
