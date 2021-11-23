@@ -5,7 +5,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=nimasrn&theme=dracula&layout=compact" />
 </a>
 <a href="https://github.com/nimasrn/nimasrn">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimasrn&hide=html,scss,css,TypeScript&theme=dracula" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimasrn&hide=html,scss,css,TypeScript&theme=dracula" />
 </a>
 
 <!--
